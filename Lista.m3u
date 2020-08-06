@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 group-title="Infantiles" tvg-id="103921" tvg-name="Cachipum TV"  tvg-logo="http://cachipum.tv/img/logo.png", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Infantiles" tvg-id="103920" tvg-name="Locomotion"  tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing HD
+https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
+#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing SD
+https://linear01-i.akamaihd.net/hls/live/837814/boing/03.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
+
+#EXTINF:-1 group-title="Venezuela" tvg-id="80263" tvg-name="TVES"  tvg-logo="https://lh3.googleusercontent.com/-PhVDIMDtz9A/XxzwP_PFnjI/AAAAAAAA3a8/I8v7253mz1YwFhHxrfrUCjL_QYLmRwOlwCK8BGAsYHg/s0/2020-07-25.png", TVES
+http://5.189.181.203:1935/tves/tves/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Venezuela" tvg-id="98987" tvg-name="VTV"  tvg-logo="https://lh3.googleusercontent.com/-bAPHheoyWLo/XnTRgvIb9XI/AAAAAAAAxCk/3yMYap565KEa9xrbD5fF7RKMxlEc7w58wCK8BGAsYHg/s0/2020-03-20.png", VTV
+https://593fa17dec176.streamlock.net:443/vtvweb4/vtvweb4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Venezuela" tvg-id="80264" tvg-name="TLT"  tvg-logo="https://lh3.googleusercontent.com/-Bqe9dITrTQg/XxzwInUx4II/AAAAAAAA3a4/5U6cSU5Zo687qn4p5Etiv_BfzD5tRGBegCK8BGAsYHg/s0/2020-07-25.png", TLT
+https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Venezuela" tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200"  tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="Venezuela" tvg-logo="https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200"  tvg-name="Venezolana de Televisión",Venezolana de Televisión
+https://593fa17dec176.streamlock.net:455/vtvweb4/vtvweb4/master.m3u8
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/12/03/12/00/1528300.jpg", Glass | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/GlassSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/e1/ee/09/e1ee09adc205a8d659dd0e8f9ec3aeba.jpg", Aquaman | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/Aquaman.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/zf2ztida/la-boda-de-mi-mejor-amigo-mexican-movie-poster.jpg", La Boda De Mi Mejor Amigo | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/l4b0d4d3m1m3j0r4m1g02019SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41P8CcVmx0L.jpg", Ong Bak | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/OngBakSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/d/da/ILYM.jpg/revision/latest?cb=20110324040702&path-prefix=es", Te Amo Brother | REGIOFLIX
+https://ryzen.hlssrv.com/hls_serve_mp4/yYSYjLeZa4yYTuLWirMN.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71xvPKq5FgL._SY450_.jpg", Bohemmian Rapsody | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/b0h3m14nr4ps0dySrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pulpfictioncine.com/download/multimedia.normal.970e7424cc462181.626c6f6f6473686f742d313230333839345f6e6f726d616c2e6a706567.jpeg", Bloodshot  | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/Bloodshot.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas Niños" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_.jpg", Lego Movie 2da Parte | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/LegoMovie2019SrRegio.mp4
+#EXTINF:0 group-title="peliculas Niños" tvg-logo="https://http2.mlstatic.com/poster-lona-vinilica-coco-D_NQ_NP_915189-MLA27017444936_032018-F.jpg", Coco | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/coco.mp4
+#EXTINF:0 group-title="peliculas Niños" " tvg-logo="https://static.posters.cz/image/750/poster/como-entrenar-a-tu-dragon-3-one-sheet-i70043.jpg", Como entrenar a tu Dragon 3 | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/Comoentrenaratudragon3SRREGIO.mp4
+#EXTINF:0 group-title="peliculas Niños" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/04/02/13/08/3361614.jpg", Shazam | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/shazam720pSRREGIO.mp4
+#EXTINF:0 group-title="peliculas Niños" tvg-logo="https://pics.filmaffinity.com/uglydolls-187959511-large.jpg", Uglydolls: Extraordinariamente feos | REGIOFLIX
+http://regioflix.club/REGIO2020/090720po/uglyd0lls.2019.hdrip.720p.latino.mp4
